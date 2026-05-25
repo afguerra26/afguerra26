@@ -58,9 +58,7 @@
   <a href="https://www.w3schools.com/sql/" target="_blank">
     <img src="https://img.shields.io/badge/SQL-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
   </a>
-  <a href="https://angular.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
-  </a>
+
 </p>
 
 ---
@@ -73,6 +71,9 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  </a>
+    <a href="https://angular.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
   </a>
 </p>
 
@@ -150,11 +151,10 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=afguerra26&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=afguerra26&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afguerra26&layout=compact&theme=tokyonight&hide_border=true"/>
+
 
 </div>
 
