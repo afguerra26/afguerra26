@@ -69,10 +69,6 @@
 <h3 align="center">Frontend</h3>
 
 <p align="center">
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
-  </a>
-
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   </a>
@@ -122,21 +118,6 @@
   </a>
 </p>
 
----
-
-<h3 align="center">Featured Projects</h3>
-
-<div align="center">
-
-| Project | Description |
-|----------|-------------|
-| 🔗 [covid-dashboard](https://github.com/yourusername/covid-dashboard) | COVID-19 analytics dashboard using Python and Pandas |
-| 🔗 [task-manager-app](https://github.com/yourusername/task-manager-app) | Task management app built with JavaScript |
-| 🔗 [aws-cost-tracker](https://github.com/yourusername/aws-cost-tracker) | AWS cost monitoring tool using Lambda |
-
-</div>
-
----
 
 <h3 align="center">Connect with me</h3>
 
