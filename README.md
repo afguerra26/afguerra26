@@ -1,114 +1,165 @@
+<p align="center">
+  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
+</p>
+
+<h1 align="center">
+  Hi 👋, I'm Andres Guerra
+  <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+</h1>
+
+<h3 align="center">
+  Web Developer Junior · Python · JavaScript · Data Analytics · Automation
+</h3>
+
+---
+
+- 🌱 Currently learning **Web Development & Data Science**
+<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+
+- 👯 Looking to collaborate on **Frontend & Data Analytics Projects**
+
+- 🤖 Building automation workflows with **n8n**
+
+- 👨‍💻 Check out my projects on [@afguerra26](https://github.com/afguerra26)
+
+- 💬 Ask me about **Python, JavaScript, Data Analytics & Automation**
+
+- ⚡ Fun fact: **I enjoy combining creativity with technology.**
+
+- 📫 Reach me at: **afguerra26@gmail.com**
+
+- 📍 Medellín, Colombia 🇨🇴
+
+---
+
+<h2 align="center"><u><b>Knowledge Base</b></u></h2>
+
+<p align="center">
+  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
+</p>
+
+---
+
+<h3 align="center">Languages</h3>
+
+<p align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  </a>
+  <a href="https://www.w3schools.com/sql/" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">Frontend</h3>
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">Backend & Data</h3>
+
+<p align="center">
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">Automation & Tools</h3>
+
+<p align="center">
+  <a href="https://n8n.io/" target="_blank">
+    <img src="https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">Connect with me</h3>
+
 <div align="center">
 
-<img src="assets/avatar.png" width="180" alt="Andres Guerra"/>
-
-# Andrés Guerra
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Web+Developer+Junior;Data+Analytics+Enthusiast;Automation+with+n8n;Always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-andres--guerra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andres-guerra)
-[![GitHub](https://img.shields.io/badge/GitHub-afguerra26-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/afguerra26)
-[![Gmail](https://img.shields.io/badge/Gmail-afguerra26%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:afguerra26@gmail.com)
-[![Location](https://img.shields.io/badge/Medell%C3%ADn-Colombia-F2C811?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Medellin,Colombia)
+<a href="https://linkedin.com/in/andres-guerra" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/afguerra26" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:afguerra26@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## About Me
-
-Desarrollador Web Junior y aspirante a Analista de Datos, formándome en **RIWI**. Con experiencia previa en coordinación de operaciones y gestión de KPIs, aplico pensamiento analítico y orientación a resultados para construir soluciones tecnológicas que generan valor real.
-
-```python
-andres = {
-    "role":      "Web Developer Junior & Data Analytics Enthusiast",
-    "location":  "Medellín, Colombia 🇨🇴",
-    "learning":  ["Web Development", "Data Science", "Cloud"],
-    "building":  "Timmy App — intelligent task manager with n8n automation",
-    "open_to":   "Frontend & Data Analytics collaborations",
-    "contact":   "afguerra26@gmail.com"
-}
-```
-
----
-
-## Tech Stack
-
 <div align="center">
 
-**Languages**
+<h2>📊 GitHub Stats</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,sql&theme=dark)](https://skillicons.dev)
+<img src="https://github-readme-stats.vercel.app/api?username=afguerra26&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-**Frontend**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=afguerra26&theme=tokyonight&hide_border=true"/>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,angular&theme=dark)](https://skillicons.dev)
-
-**Backend & Data**
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres&theme=dark)](https://skillicons.dev)
-
-**Tools & Automation**
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark)](https://skillicons.dev)
-
-</div>
-
-<div align="center">
-
-![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-Data-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Scientific-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afguerra26&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## Projects
-
-### Timmy App — Intelligent Task Manager
-> Asistente inteligente para organizar actividades diarias. Analiza y procesa información del usuario para generar una lista optimizada de tareas, mejorando productividad. Desarrollado con flujo de automatización en **n8n**.
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afguerra26)
-
----
-
-### Data Analysis Project — Data Visualization
-> Limpieza y análisis de datos con **Python** y **Pandas**. Generación de visualizaciones e insights accionables a partir de datasets reales.
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afguerra26)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=afguerra26&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=22C55E&text_color=F8FAFC"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afguerra26&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=F8FAFC"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=afguerra26&theme=github-dark-blue&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E"/>
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=afguerra26&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=afguerra26&color=22C55E&style=flat-square&label=Profile+Views)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
